@@ -18,5 +18,6 @@
   "homepage": "https://github.com/Lautiri/Lautaro-Web-Villalba-#readme",
   "dependencies": {
     "node-sass": "^7.0.1"
-  }
+  },
+  "devDependencies": {}
 }
