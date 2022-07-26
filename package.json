@@ -1,0 +1,22 @@
+{
+  "name": "proyecto-final-2",
+  "version": "1.0.0",
+  "description": "Proyecto CON",
+  "main": "index.js",
+  "scripts": {
+    "build": "node-sass --include-paht sass ./sass/index.scss ./css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lautiri/Lautaro-Web-Villalba-.git"
+  },
+  "author": "Villalba",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lautiri/Lautaro-Web-Villalba-/issues"
+  },
+  "homepage": "https://github.com/Lautiri/Lautaro-Web-Villalba-#readme",
+  "dependencies": {
+    "node-sass": "^7.0.1"
+  }
+}

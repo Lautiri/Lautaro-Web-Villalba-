@@ -2,7 +2,7 @@ li{
     list-style: none;
 }
 header{
-    background-color: black;
+    background-color: #111;
     display: flex;
     justify-content: space-between;
 }
